@@ -1,0 +1,14 @@
+@import url(../blocks/header.css);
+@import url(../blocks/page.css);
+@import url(../blocks/lead.css);
+@import url(../blocks/intro.css);
+@import url(../blocks/footer.css);
+@font-face {
+  font-family: "Inter";
+  src: url(../fonts/Inter-4.0/InterVariable.ttf);
+}
+@font-face {
+  font-family: "Inter";
+  src: url(../fonts/Inter-4.0/web/Inter-Bold.woff2);
+  font-weight: bold;
+}

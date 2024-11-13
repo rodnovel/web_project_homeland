@@ -1,0 +1,20 @@
+.footer {
+  width: 194px;
+  height: 16px;
+  top: 1968px;
+  left: 543px;
+  font-family: "Inter";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: right;
+  color: #ffffff;
+  margin: 0 auto;
+  padding-bottom: 24px;
+}
+@media screen and (max-width: 544px) {
+  .footer {
+    height: 14px;
+    line-height: 14px;
+  }
+}

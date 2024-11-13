@@ -3,6 +3,7 @@
 @import url(../blocks/lead.css);
 @import url(../blocks/intro.css);
 @import url(../blocks/footer.css);
+@import url(../vendor/normalize.css);
 @font-face {
   font-family: "Inter";
   src: url(../fonts/Inter-4.0/InterVariable.ttf);

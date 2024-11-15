@@ -6,7 +6,7 @@
 .lead__title {
   width: 720px;
   height: 200px;
-  font-family: "Inter";
+  font-family: "Inter", "Arial", sans-serif;
   font-size: 96px;
   font-weight: 900;
   line-height: 100px;
@@ -22,7 +22,7 @@
   height: 72px;
   top: 426px;
   left: 280px;
-  font-family: "Inter";
+  font-family: "Inter", "Arial", sans-serif;
   font-size: 30px;
   font-weight: 400;
   line-height: 36px;
@@ -41,7 +41,7 @@
   margin: 0 auto;
   padding-bottom: 92px;
 }
-@media screen and (max-width: 1024px) {
+@media screen and (min-width: 545px) and (max-width: 1024px) {
   .lead__title {
     width: 530px;
     height: 158px;
@@ -53,7 +53,7 @@
     height: 480px;
   }
 }
-@media screen and (max-width: 544px) {
+@media screen and (min-width: 320px) and (max-width: 544px) {
   .lead__title {
     width: 228px;
     height: 88px;

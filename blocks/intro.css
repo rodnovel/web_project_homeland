@@ -69,22 +69,22 @@
 }
 @media screen and (min-width: 545px) and (max-width: 1024px) {
   .intro__title {
-    width: 707px;
+    width: auto;
     height: 147px;
     font-size: 45px;
     line-height: 49px;
     padding-left: 0;
   }
   .intro__content {
-    width: 720px;
+    width: auto;
     padding-left: 0;
   }
   .intro__author {
-    width: 720px;
+    width: auto;
     padding-left: 0;
   }
   .intro__text {
-    width: 720px;
+    width: auto;
     padding-left: 0;
   }
 }

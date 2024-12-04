@@ -1,9 +1,9 @@
 @font-face {
   font-family: "Inter";
-  src: url(../fonts/Inter-4.0/InterVariable.ttf);
+  src: url(../vendor/fonts/letter\ 2.woff2);
 }
 @font-face {
   font-family: "Inter";
-  src: url(../fonts/Inter-4.0/web/Inter-Bold.woff2);
+  src: url(../vendor/fonts/InterVariable.ttf);
   font-weight: bold;
 }
